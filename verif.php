@@ -2,6 +2,6 @@
 	// verifier le fichier
 
 	function verif(){
-		return
+		return;
 	}
 ?>
