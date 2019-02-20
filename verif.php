@@ -4,4 +4,6 @@
 	function verif(){
 		return;
 	}
+ 
+	function stack();
 ?>
