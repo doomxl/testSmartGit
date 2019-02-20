@@ -1,0 +1,3 @@
+<?php
+	// verifier le fichier
+?>
